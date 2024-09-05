@@ -1,0 +1,519 @@
+@media (max-width:480px){
+    body{
+        width: 60vw;
+        height: 100vh;
+    }
+    header{
+        width: 40vw;
+        height: 10vh;
+        padding: 100px;
+        position: relative;
+        right: -20px;
+        
+    }
+    #plabel{
+        position: relative;
+        right: -200px;
+    }
+    #nomel{
+        position: relative;
+        right: -200px;
+    }
+    #senhal{
+        position: relative;
+        right: -200px;
+    }
+    #butal{
+        position: relative;
+        right: -200px;
+    }
+    #labe{
+        position: relative;
+        right: -200px;
+    }
+    #sobrebody{
+        text-align: center;
+        background-image: url('../img/funda8.avif');
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #perfilbody{
+        text-align: center;
+        background-image: url('../img/funda9.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #categbody{
+        text-align: center;
+        background-image: url('../img/funda12.avif');
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #principalbody{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #bibbody{
+        background-image: url('../img/funda7.avif');
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #bodylogin{
+        position: relative;
+        top: 0px;
+        border-radius: 10px;
+        padding: 6px;
+        padding-bottom: 10px;
+    }
+    #catgsbody{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #titulobib{
+        display: none;
+    }
+    #tituloperfil{
+        display: none;
+    }
+    #fotoperfil2{
+        position: relative;
+        top: 70px;
+        right: 120px;
+    }
+    .barranav{
+        right: -5px;
+        padding: 5px;
+        font-size: 20px;
+    }
+    #pinicial{
+        top: 20px;
+        right: 2px;
+        width: 80%;
+    }
+    .logo{
+        display: none;
+    }
+    #sobretxt{
+        position: relative;
+        right: -10px;
+        font-size: 10px;
+        text-align: justify;
+        width: 400px;
+    }
+    #labao{
+        position: relative;
+        right: 1px;
+    }
+    #optionpag{
+        position: relative;
+        right: 1px;
+    }
+    #pform{
+        position: relative;
+        right: 1px;
+    }
+    #txtgow{
+        text-align: justify;
+        font-size: 10px;
+        width: 300px;
+    }
+    #txthollow{
+        font-size: 10px;
+        width: 300px;
+        text-align: justify;
+    }
+    #txtmine{
+        text-align: justify;
+        font-size: 10px;
+        width: 300px;
+    }
+    #txtred{
+        font-size: 10px;
+        width: 300px;
+        text-align: justify;
+    }
+    #txtelden{
+        font-size: 10px;
+        width: 300px;
+        text-align: justify;
+    }
+    #eldenimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #gowimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #forzaimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #hadesimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #hollowimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #redimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #mineimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #videl{
+        position: relative;
+        right: -3px;
+        top: -1px;
+    }
+    #videlg{
+        position: relative;
+        right: -3px;
+        top: -1px;
+    }
+    #nome2{
+        display: none;
+    }
+}
+@media (min-width:481px) and (max-width:769px){
+    body{
+        width: 80vw;
+        height: 100vh;
+    }
+    #sobrebody{
+        text-align: center;
+        background-image: url('../img/funda8.avif');
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #perfilbody{
+        text-align: center;
+        background-image: url('../img/funda9.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #categbody{
+        text-align: center;
+        background-image: url('../img/funda12.avif');
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #principalbody{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #bibbody{
+        background-image: url('../img/funda7.avif');
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #bodylogin{
+        position: relative;
+        top: 0px;
+        border-radius: 10px;
+        padding: 6px;
+        padding-bottom: 10px;
+    }
+    #catgsbody{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #titulobib{
+        display: none;
+    }
+    #tituloperfil{
+        display: none;
+    }
+    header{
+        width: 50vw;
+        height: 10vh;
+        padding: 100px;
+        position: relative;
+        right: -25px;
+    }
+    .logo{
+        display: none;
+    }
+    #nomelogo{
+        display: none;
+    }
+    #fotoperfil2{
+        position: relative;
+        top: 70px;
+        right: 120px;
+    }
+    .barranav{
+        right: -40px;
+        padding: 5px;
+        font-size: 20px;
+    }
+    #pinicial{
+        top: 20px;
+        right: 2px;
+        width: 80%;
+    }
+    .logo{
+        display: none;
+    }
+    #sobretxt{
+        position: relative;
+        right: -10px;
+        font-size: 10px;
+        text-align: justify;
+        width: 400px;
+    }
+    #labao{
+        position: relative;
+        right: 1px;
+    }
+    #optionpag{
+        position: relative;
+        right: 1px;
+    }
+    #pform{
+        position: relative;
+        right: 1px;
+    }
+    #txtgow{
+        text-align: justify;
+        font-size: 10px;
+        width: 300px;
+    }
+    #txthollow{
+        font-size: 10px;
+        width: 300px;
+        text-align: justify;
+    }
+    #txtmine{
+        text-align: justify;
+        font-size: 10px;
+        width: 300px;
+    }
+    #txtred{
+        font-size: 10px;
+        width: 300px;
+        text-align: justify;
+    }
+    #txtelden{
+        font-size: 10px;
+        width: 300px;
+        text-align: justify;
+    }
+    #eldenimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+        
+    }
+    #gowimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #forzaimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #hadesimg{
+        width: 450px;
+        position: relative;
+        top: 5px;
+        right: -20px;
+    }
+    #hollowimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #redimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #mineimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #videl{
+        position: relative;
+        right: -3px;
+        top: -1px;
+    }
+    #videlg{
+        position: relative;
+        right: -3px;
+        top: -1px;
+    }
+    #nome2{
+        display: none;
+    }
+}
+@media (min-width:770px) and (max-width:1470px){
+    body{
+        width: 100%;
+        height: 100%;
+    }
+    header{
+        width: 70vw;
+        height: 10vh;
+        padding: 100px;
+        position: relative;
+        right: -25px;
+    }
+    .logo{
+        display: none;
+    }
+    #nomelogo{
+        display: none;
+    }
+    #fotoperfil2{
+        position: relative;
+        top: 70px;
+        right: 120px;
+    }
+    .barranav{
+        right: -40px;
+        padding: 5px;
+        font-size: 20px;
+    }
+    #pinicial{
+        top: 20px;
+        right: 2px;
+        width: 80%;
+    }
+    .logo{
+        display: none;
+    }
+    #sobretxt{
+        width: 400px;
+    }
+    #labao{
+        position: relative;
+        right: 1px;
+    }
+    #optionpag{
+        position: relative;
+        right: 1px;
+    }
+    #pform{
+        position: relative;
+        right: 1px;
+    }
+    #txtgow{
+        text-align: justify;
+        font-size: 10px;
+        width: 300px;
+    }
+    #txthollow{
+        font-size: 10px;
+        width: 300px;
+        text-align: justify;
+    }
+    #txtmine{
+        text-align: justify;
+        font-size: 10px;
+        width: 300px;
+    }
+    #txtred{
+        font-size: 10px;
+        width: 300px;
+        text-align: justify;
+    }
+    #txtelden{
+        font-size: 10px;
+        width: 300px;
+        text-align: justify;
+    }
+    #eldenimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+        
+    }
+    #gowimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #forzaimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #hadesimg{
+        width: 450px;
+        position: relative;
+        top: 5px;
+        right: -20px;
+    }
+    #hollowimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #redimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #mineimg{
+        width: 450px;
+        position: relative;
+        right: -20px;
+    }
+    #videl{
+        position: relative;
+        right: -3px;
+        top: -1px;
+    }
+    #videlg{
+        position: relative;
+        right: -3px;
+        top: -1px;
+    }
+    #nome2{
+        display: none;
+    }
+}
+

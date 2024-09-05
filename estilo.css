@@ -1,0 +1,632 @@
+header{
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 3px 3px 10px black;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.imgjog:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    margin: auto;
+    background-image: url('../img/fundoazul.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 300px;
+    height: 170px;
+    position: relative;
+    right:135px;
+}
+.barranav:hover{
+    margin-block-end: 0px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.349);
+    border-radius: 10px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.imgjog{
+    width: 420px;
+    height: 230px;
+    padding: 2px;
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 20px;
+    position: relative;
+    top: 20px;
+}
+#fotoperfil{
+    padding: 2px;
+    border-radius: 10px;
+    border: 1px black;
+    box-shadow: 3px 3px 3px 5px black;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 250px;
+    width: 500px;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 2px 2px 7px rgb(0, 0, 0);
+}
+span{
+    font-size: 20px;
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+#nomelogo{
+    position: relative;
+    top: 0px;
+    right: 220px;
+    color: rgb(22, 20, 139);
+    font-size: 48px;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    cursor: pointer;
+}
+.barranav{
+  position: relative;
+  right: 200px;
+}
+#tituloperfil{
+    position: relative;
+    right: 80px;
+}
+#titulobib{
+    position: relative;
+    right: 80px;
+}
+p{
+    position: relative;
+    right: -440px;
+    top: -150px;
+    text-align: justify;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 10px;
+    width: 1000px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#txtmine{
+    top: 20px;
+   right: 0px;
+}
+#mineimg{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    padding: 1px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#minebody{
+    background-image: url('../img/mi.webp');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5px;
+}
+a:hover{
+    color: rgb(255, 255, 255);
+}
+#vendabody{
+    background-color: rgb(134, 131, 131);
+    font-size: 30px;
+    text-align: center;
+}
+#txtelden{
+    right: 0px;
+    top: 10px;
+}
+#eldenimg{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    padding: 1px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#eldenbody{
+    background-image: url('../img/ELDENRING_10_4K.webp');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5px;
+}
+#txtred{
+    right: 0px;
+    top: 10px;
+}
+#redimg{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    padding: 1px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#txtgow{
+    position: relative;
+    top: -20px;
+    right: 0px;
+}
+#redbody{
+    background-image: url('../img/reddad.webp');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5px;
+}
+#hollowbody{
+    background-image: url('../img/hollow-knight-e-um-metroidvania-poetico-e-sombrio-com-alma-de-souls-like (1).jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5px;
+}
+#txthollow{
+    right: 0px;
+    top: 10px;
+}
+#hollowimg{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    padding: 1px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#titulojog{
+    color: white;
+    font-size: 30px;
+}
+#avenda{
+    color: white;
+    border-radius: 10px;
+    width: 155px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    background-color: rgba(43, 67, 145, 0.699);
+}
+#avenda:hover{
+    color: black;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#labao{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+#formapag{
+    position: relative;
+    width: 350px;
+    height: 170px;
+    top: 430px;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    padding-bottom: 10px;
+}
+#perfilbody{
+    text-align: center;
+    background-image: url('../img/funda9.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-width: 3px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#nome{
+    font-size: 30px;
+}
+#fotoperfil2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+}
+#nome2{
+    color: black;
+}
+#nome2:hover{
+    background-color: rgba(128, 128, 128, 0.788);
+    border-radius: 10px;
+    width: 205px;
+}
+#catlink{
+    position: relative;
+    right: -30px;
+}
+#sobretxt{
+    color: black;
+    position: relative;
+   right: -430px;
+   top: 30px;
+   text-align: center;
+}
+#sobrebody{
+    text-align: center;
+    background-image: url('../img/funda8.avif');
+    border-width: 3px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#categbody{
+    text-align: center;
+    background-image: url('../img/funda12.avif');
+    border-width: 3px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#direitosres{
+    text-align: center;
+    border-radius: 10px;
+}
+#principalbody{
+    border-width: 3px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#preco{
+    position: relative;
+    top: 10px;
+    right: 0px;
+}
+#gowbody{
+    background-image: url('../img/gow fundo.jpg');
+    padding: 5px;
+    
+}
+hr{
+    border-color: rgb(28, 40, 148);
+}
+#videl{
+    position: relative;
+    right: -590px;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    top:420px;
+}
+#fundocateg{
+    background-color: rgba(0, 0, 0, 0.199);
+    border-radius: 10px;
+}
+#bibbody{
+    background-image: url('../img/funda7.avif');
+    border-width: 3px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#confbut{
+    color: black;
+    position: relative;
+    width: 10px;
+    height: 5px;
+    right: -200px;
+}
+#confbuto:hover{
+    text-decoration: underline;
+    color: black;
+}
+#fimbody{
+    text-align: center;
+}
+#fundofim{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    position: relative;
+    top: 200px;
+    
+}
+#confbuto{
+    color: black;
+    position: relative;
+    width: 10px;
+    height: 5px;
+    right: -200px;
+}
+#confbuta{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(236, 236, 236);
+    margin: auto;
+    position: relative;
+    top: -110px;
+    background-color: rgba(50, 108, 216, 0.979);
+    width: 300px;
+    border-radius: 20px;
+    height: 66px;
+}
+#confbuta:hover{
+    background-color: rgba(60, 60, 177, 0.685);
+}
+#buta{
+    width: 80px;
+    position:relative;
+    right: -0px;
+    top: -30px;
+}
+#fimp{
+    color: black;
+    position: relative;
+    top: 50px;
+}
+#fimh{
+    color: black;
+}
+#fimh:hover{
+    text-decoration: underline;
+}
+#labe{
+    color: rgb(0, 0, 0);
+    position: relative;
+}
+#senha{
+    position: relative;
+}
+#nomel{
+    position: relative;
+}
+#plabel{
+    position: relative;
+    top: 100px;
+}
+#h1login{
+    text-align: center;
+}
+#butal{
+    background-color: rgba(0, 89, 255, 0.589);
+    border-radius: 15px;
+    text-align: center;
+    font-size:35px;
+    width: 200px;
+    position: relative;
+    right: -820px;
+    top: 120px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(236, 236, 236);
+}
+#butal:hover{
+    background-color: rgba(60, 60, 177, 0.685);
+}
+#bodylogin{
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    position: relative;
+    top: 0px;
+    border-radius: 10px;
+    padding: 6px;
+    padding-bottom: 10px;
+}
+#h2login{
+    text-align: center;
+    position: relative;
+    top: -200px;
+}
+#imglogin{
+    position: relative;
+    right: -530px;
+    border-radius: 10px;
+    box-shadow: 5px 4px 10px black;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 800px;
+    height: 450px;
+}
+#nomelogol{
+    position: relative;
+    top: 0px;
+    right: 220px;
+    color: rgb(22, 20, 139);
+    font-size: 48px;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+footer{
+    width: 100%;
+    padding: 0;
+    border-radius: 8px;
+}
+#jogosec{
+    box-shadow: 3px 3px 10px black;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    padding: 15px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  position: relative;
+  right: -1640px;
+  top: -100px;
+}
+#menu{
+    color: rgb(0, 0, 0);
+}
+#men{
+    display: none;
+}
+.material-symbols-outlined:hover{
+    background-color: rgb(163, 161, 161);
+    border-radius: 10px;
+}
+li{
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+    position: relative;
+    right: 15px;
+}
+#menus{
+    position:absolute;
+    left:1650px;
+    width: 200px;
+    height: 65px;
+    text-align: center;
+}
+#menua:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.651);
+    border-radius: 5px;
+}
+#h1link{
+}
+#h1link:hover{
+    background-color: rgba(65, 63, 63, 0.623);
+    color: white;
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+}
+#h2cod{
+    text-align: center;
+    font-size: 30px;
+}
+#gowimg{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    padding: 1px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#videlg{
+    position: relative;
+    right: -590px;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    top:420px;
+}
+#forzabody{
+    background-image: url('../img/ForzaHorizon5_Gamescom-02-16x9_WM.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5px;
+}
+#forzaimg{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    padding: 1px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#hadesbody{
+    background-image: url('../img/Hades_4K_CoolTonesEnvironment.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5px;
+}
+#hadesimg{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    padding: 1px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+#catgsbody{
+    border-width: 3px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#men{
+    cursor: pointer;
+}
